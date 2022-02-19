@@ -1,4 +1,4 @@
-1447107304{
+{
    "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
    "UserGifts":{
       "1447107304":[
@@ -9,55 +9,13 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":9999,
+            "Currency":99999999,
             "Xp":0,
             "Level":0,
-            "GiftRarity":0,
-            "Message":"From Coach Happy birthday",
+            "GiftRarity":5,
+            "Message":"Message Goes Here",
             "Context":2
          }
       ]
    }
-} 
-1447107304{
-   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
-   "UserGifts":{
-      "1447107304":[
-         {
-            "Id":9008,
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":9,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"From Coach Happy birthday",
-            "Context":2
-         }
-      ]
-   }
-} 
-1447107304{
-   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
-   "UserGifts":{
-      "1447107304":[
-         {
-            "Id":9008,
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":9,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"From Coach Happy birthday",
-            "Context":2
-         }
-      ]
-   }
-} 
+}
